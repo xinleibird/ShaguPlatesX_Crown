@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: |cff33ffccShagu|cffffffffPlatesX Crown Override
+## Title-zhCN: |CFF00FF00[|r|CFFDD66DD界面|r|CFF00FF00] ShaguPlatesX皇冠图标
+## Notes: Overrides ShaguPlatesX rare elite crown icon.
+## Notes-zhCN: 替换 ShaguPlatesX 精英/Boss/稀有和稀有精英怪的皇冠图标
+## OptionalDeps: ShaguPlatesX
+
+ShaguPlatesX_Crown.lua
+img\crown_66.tga
+img\crown_64.tga
+img\crown_65.tga
